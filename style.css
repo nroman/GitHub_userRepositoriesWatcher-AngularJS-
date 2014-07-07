@@ -1,0 +1,45 @@
+body{
+    background-color: #FAEBD7;
+}
+
+select{
+    margin: 10px;
+}
+
+img{
+    height: 100px;
+    width: 100px;
+    cursor: pointer;
+}
+
+.error{
+    color: red;
+    width: auto;
+    padding: 5px;
+}
+
+.userInfo{
+    margin-top: 10px;
+    border: double 1px black;
+    width: 400px;
+    min-width: 400px;
+    padding: 10px;
+    background-color: #ADD8E6;
+}
+
+table{
+    padding: 10px;
+    background-color: #FFFAFA;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+
+td{
+    padding: 5px;
+}
